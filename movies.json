@@ -1,0 +1,33 @@
+{
+	"movies":[
+		{
+			"name": "The Dark Knight",
+			"yearReleased": 2008,
+			"cast": ["Christian Bale", "Heath Ledger"],
+			"director": "Christopher Nolan",
+			"imdbRating": 9.0
+		},
+		{
+			"name": "Inception",
+			"yearReleased": 2010,
+			"cast": ["Leo DiCaprio", "Tom Hardy"],
+			"director": "Christopher Nolan",
+			"imdbRating": 8.8
+		},
+		{
+			"name": "Pulp Fiction",
+			"yearReleased": 1994,
+			"cast": ["John Travolta", "Samuel Jackson"],
+			"director": "Quentin Tarantino",
+			"imdbRating": 8.9
+		},
+		{
+			"name": "Kill Bill I",
+			"yearReleased": 2003,
+			"cast": ["Uma Thurman", "David Carradine"],
+			"director": "Quentin Tarantino",
+			"imdbRating": 8.1
+		}
+	],
+	"status": "OK"
+}
