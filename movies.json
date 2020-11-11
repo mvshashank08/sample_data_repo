@@ -26,7 +26,8 @@
 			"yearReleased": 2003,
 			"cast": ["Uma Thurman", "David Carradine"],
 			"director": "Quentin Tarantino",
-			"imdbRating": 8.1
+			"imdbRating": 8.1,
+			"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmiMuZ0IlVIO2Vg4H7jecLT-GwzhMkAdJeXzvzmnHpx42R4gxM"
 		}
 	],
 	"status": "OK"
